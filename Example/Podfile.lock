@@ -1,0 +1,16 @@
+PODS:
+  - BHCustomLibrary (0.1.0)
+
+DEPENDENCIES:
+  - BHCustomLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  BHCustomLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BHCustomLibrary: 4fa08a3e4a74e9c0bc250d5e55dcd860f8b212ec
+
+PODFILE CHECKSUM: 62243e374400fbb3906bf6ad9f6c6a9c5c1187b3
+
+COCOAPODS: 1.8.4
